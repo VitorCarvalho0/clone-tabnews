@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Aprendendo a como fazer uma implementação completa do https://www.tabnews.com.br para o https://curso.dev",
+  "homepage": "https://github.com/VitorCarvalho0/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/VitorCarvalho0/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorCarvalho0/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "next-transpile-modules": "^10.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
